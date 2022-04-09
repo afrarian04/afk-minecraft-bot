@@ -1,2 +1,3 @@
 # aternos-bot-17
-YNTKTS :v
+Minecraft Bots for 1.17 server TLauncher.
+Thanks to : YNTKTS :v
