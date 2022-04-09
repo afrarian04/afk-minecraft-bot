@@ -1,0 +1,9 @@
+{
+	"ip":"SALTICregency.aternos.me",
+	"port": "40738",
+	"name": "botafrarian",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register afrarian1234",
+	"login-cmd":"/login afrarian1234"
+}
