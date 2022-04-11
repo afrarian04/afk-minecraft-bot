@@ -110,9 +110,9 @@ const initBot = () => {
         isKicked = true;
     });
 
-    bot.on('entityHurt', function (entity) {
-        bot.chat(`ADUH!`);
-    });
+    // bot.on('entityHurt', function (entity) {
+    //     bot.chat(`ADUH!`);
+    // });
 
     function lookAtNearestPlayer() {
         const playerFilter = (entity) => entity.type === 'player'
